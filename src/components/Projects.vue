@@ -102,5 +102,3 @@ const projects = [
     </template>
   </div>
 </template>
-
-<style scoped></style>
